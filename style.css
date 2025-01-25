@@ -1,0 +1,841 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
+    font-family: "Mulish", sans-serif;
+}
+
+#sec1 {
+    background-image: url(./BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 0px 100px;
+    margin: auto;
+
+}
+
+.container {
+    max-width: 1240px;
+    margin: auto;
+    padding: 0px;
+}
+
+.box {
+    width: 100%;
+    padding: 24px 50px;
+    border-radius: 24px;
+}
+
+.welcome {
+    margin-top: 100px;
+   
+    margin-bottom: 100px;
+
+}
+
+.meet-us {
+    font-size: 74px;
+    font-weight: 800;
+    line-height: 92.87px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.discover {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: center;
+
+}
+
+.book {
+    width: 80%;
+    margin-bottom: 24px;
+}
+
+.text {
+    width: 70%;
+}
+
+.yellow {
+    color: #FFCA10;
+
+}
+
+.wide {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.work {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: white;
+    padding-top: 12px;
+}
+
+.style {
+    background-color: #FFFFFF40;
+    padding: 24px;
+    border-radius: 24px;
+
+}
+
+#sec2 {
+    padding: 100px 0px;
+}
+
+.size {
+    gap: 24px;
+}
+
+.librarians {
+    padding: 32px 50px;
+    gap: 54px;
+    border-radius: 50px;
+    border: 2px solid #EDF7FF
+}
+
+
+
+.L-head {
+    font-size: 54px;
+    font-weight: 800;
+    line-height: 67.77px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #014479;
+}
+
+.L-text {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: right;
+    width: 100%;
+}
+
+.A-text {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: right;
+    width: 50%;
+}
+
+.m-top {
+    margin-top: 24px;
+}
+
+.dist {
+    gap: 24px;
+}
+
+.style2 {
+    padding: 24px 16px;
+    background-color: #F5F7F8;
+    border-radius: 24px;
+
+}
+
+.work2 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.work1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.learn {
+    padding: 10px 50px;
+    gap: 10px;
+    border-radius: 5px;
+    background-color: #FFCA10;
+    height: 50px;
+    border: none;
+}
+
+.research,
+.institution {
+    gap: 12px;
+}
+
+.L-heading {
+
+    margin-bottom: 54px;
+}
+
+#sec3 {
+    padding: 100px 0px;
+}
+
+.R-text {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    width: 55%;
+}
+
+.R-head {
+    font-size: 54px;
+    font-weight: 800;
+    line-height: 67.77px;
+    letter-spacing: 0.02em;
+    text-align: right;
+    color: #014479;
+
+}
+
+#sec4 {
+    padding: 100px 0px;
+}
+
+.I-head {
+    width: 50%;
+}
+
+.style3 {
+    padding: 24px 50px;
+    background-color: #F5F7F8;
+    border-radius: 24px;
+}
+
+.more {
+    padding: 0px 75px;
+    gap: 10px;
+    border-radius: 5px;
+    background-color: #FFCA10;
+    height: 50px;
+    border: none;
+}
+
+#sec5 {
+    padding: 100px 0px;
+}
+
+.V-head {
+    font-size: 54px;
+    font-weight: 800;
+    line-height: 67.77px;
+    letter-spacing: 0.02em;
+    text-align: right;
+    color: #014479;
+    width: 80%;
+}
+
+.meeting {
+    font-size: 14px;
+    font-weight: 700;
+    height: 66px;
+    width: 100%;
+    margin-top: 27px;
+    border-radius: 59px;
+    background-color: #FFCA10;
+    line-height: 17.5px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    border: none;
+
+}
+
+#sec6 {
+    padding: 100px 0px;
+}
+
+#sec6 .container {
+    background-image: url(./collaborate-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    padding: 100px 50px;
+}
+
+.collaborate {
+    width: 100%;
+}
+
+.colab {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50.2px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: white;
+}
+
+.sci {
+    font-size: 74px;
+    font-weight: 800;
+    line-height: 92.87px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFCA10;
+}
+
+#sec7 {
+
+    padding: 100px 0px;
+}
+
+.bottom {
+    border: 1px solid #F5F7F8;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.57px;
+    letter-spacing: 0.02em;
+    padding: 8px 5px;
+    border-radius: 50px;
+}
+.footer, .labels{
+    gap: 24px;
+}
+
+.publish {
+    gap: 8px;
+
+}
+
+.publish4 {
+    gap: 8px;
+    padding: 0px 16px;
+
+}
+
+
+@media screen and (max-width: 470px) {
+
+    #sec1 {
+        padding: 24px 16px 50px 16px;
+    }
+
+    #sec2,
+    #sec3,
+    #sec4,
+    #sec5,
+    #sec6,
+    #sec7 {
+        padding: 50px 16px;
+    }
+
+
+    .logo-b img {
+        width: 139.29px;
+    }
+
+
+    .logo-s img {
+        width: 144.23px;
+    }
+
+
+
+    .size {
+        width: 100%;
+       
+        gap: 24px;
+    }
+
+    .L-head,
+    .L-text {
+        text-align: left;
+        width: 100%;
+    }
+
+    .A-text {
+        text-align: left;
+        width: 100%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .R-head,
+    .V-head,
+    .I-head,
+    .R-text {
+        text-align: left;
+        width: 100%;
+    }
+
+    .librarians {
+       
+        padding: 16px;
+        gap: 54px;
+        border-radius: 25px;
+
+    }
+
+    .dist {
+        gap: 12px;
+    }
+
+    .dis {
+        gap: 8px;
+    }
+
+    .style {
+        width: 171px;
+
+    }
+
+
+    .meet-us {
+        font-size: 54px;
+        line-height: 67.77px;
+    }
+
+    .discover {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .welcome {
+        width: 90%;
+    }
+
+    .book {
+        width: 100%;
+    }
+
+    .text {
+        width: 100%;
+    }
+
+    .library {
+        padding: 0px 10px;
+    }
+
+    .library img {
+        width: 80px;
+    }
+
+    .work {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .L-head,
+    .R-head,
+    .V-head {
+        font-size: 40px;
+        line-height: 50.2px;
+    }
+
+    .L-head {
+        font-size: 39px;
+        line-height: 50.2px;
+    }
+
+    .L-heading {
+       
+        margin-bottom: 54px;
+    }
+
+
+    .V-head {
+        font-size: 38px;
+        line-height: 50.2px;
+    }
+
+    .L-text,
+    .R-text {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+
+
+    .research img {
+        width: 80px;
+    }
+
+    .work2 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .work1 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .learn {
+        width: 139px;
+        font-size: 14px;
+        padding: 0px;
+    }
+
+    .style3 {
+        gap: 12px;
+        padding: 0px;
+    }
+
+    .institution {
+        padding: 24px 16px;
+    }
+
+    .institution img {
+        width: 80px;
+    }
+
+    .more {
+        width: 139px;
+        padding: 0px;
+    }
+
+    .colab {
+        font-size: 32px;
+        line-height: 40.16px;
+    }
+
+    .sci {
+        font-size: 54px;
+        line-height: 67.77px;
+    }
+
+    .footer {
+        justify-content: space-evenly;
+        align-items: center;
+        text-align: center;
+        border: none;
+       
+    }
+
+  
+    #sec6 .container {
+        border-radius: 25px;
+        padding: 16px;
+    }
+
+}
+
+@media screen and (max-width: 1300px) and (min-width: 950px) {
+
+    #sec1,
+    #sec2,
+    #sec3,
+    #sec4,
+    #sec5,
+    #sec6,
+    #sec7 {
+        padding: 24px 16px 50px 16px;
+    }
+
+  
+    .logo-b img {
+        width: 139.29px;
+    }
+
+    .logo-s img {
+        width: 144.23px;
+    }
+
+    .L-head,
+    .L-text {
+        text-align: left;
+        width: 100%;
+    }
+
+    .A-text {
+        text-align: left;
+        width: 100%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .R-head,
+    .V-head,
+    .I-head,
+    .R-text {
+        text-align: left;
+        width: 100%;
+    }
+
+    .librarians {
+       
+        padding: 16px;
+    }
+
+    .meet-us {
+        font-size: 54px;
+        line-height: 67.77px;
+    }
+
+    .discover {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+  
+
+    .library {
+        padding: 0px 10px;
+    }
+
+    .library img {
+        width: 80px;
+    }
+
+    .work {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .L-head,
+    .R-head,
+    .V-head {
+        font-size: 40px;
+        line-height: 50.2px;
+    }
+
+    .L-head {
+        font-size: 39px;
+        line-height: 50.2px;
+    }
+
+    .V-head {
+        font-size: 38px;
+        line-height: 50.2px;
+    }
+
+    .L-text,
+    .R-text {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .style2 {
+       
+    }
+
+    .research img {
+        width: 80px;
+    }
+
+    .work2 {
+        font-size: 16px;
+    }
+
+    .work1 {
+        font-size: 16px;
+    }
+
+    .learn {
+        width: 139px;
+        font-size: 14px;
+        padding: 0px;
+    }
+
+    .style3 {
+        padding: 0px;
+    }
+
+    .institution img {
+        width: 80px;
+    }
+
+    .more {
+        width: 139px;
+        padding: 0px;
+    }
+
+    .colab {
+        font-size: 32px;
+        line-height: 40.16px;
+    }
+
+    .sci {
+        font-size: 54px;
+        line-height: 67.77px;
+    }
+
+    .footer {
+        justify-content: space-evenly;
+        align-items: center;
+        text-align: center;
+        border: none;
+       
+    }
+
+ 
+
+
+}
+
+@media screen and (max-width: 950px) and (min-width: 470px) {
+
+    #sec1,
+    #sec2,
+    #sec3,
+    #sec4,
+    #sec5,
+    #sec6,
+    #sec7 {
+        padding: 24px 16px 50px 16px;
+    }
+
+
+
+    .logo-b img {
+        width: 139.29px;
+    }
+
+    .logo-s img {
+        width: 144.23px;
+    }
+
+    .L-head,
+    .L-text {
+        text-align: left;
+        width: 100%;
+    }
+
+    .A-text {
+        text-align: left;
+        width: 100%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+   
+
+    .R-head,
+    .V-head,
+    .I-head,
+    .R-text {
+        text-align: left;
+        width: 100%;
+    }
+
+
+
+    .meet-us {
+        font-size: 54px;
+        line-height: 67.77px;
+    }
+
+    .discover {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+ 
+
+
+
+    .library {
+        padding: 0px 10px;
+    }
+
+    .library img {
+        width: 80px;
+    }
+
+    .work {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .L-head,
+    .R-head,
+    .V-head {
+        font-size: 40px;
+        line-height: 50.2px;
+    }
+
+    .L-head {
+        font-size: 39px;
+        line-height: 50.2px;
+    }
+
+    .V-head {
+        font-size: 38px;
+        line-height: 50.2px;
+    }
+
+    .L-text,
+    .R-text {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .style2 {
+        padding: 20px 8px;
+    }
+
+    .research img {
+        width: 80px;
+    }
+
+    .work2 {
+        font-size: 16px;
+    }
+
+    .work1 {
+        font-size: 16px;
+    }
+
+    .learn {
+        width: 139px;
+        font-size: 14px;
+        padding: 0px;
+    }
+
+    .style3 {
+        padding: 0px;
+    }
+
+    .institution img {
+        width: 80px;
+    }
+
+    .more {
+        width: 139px;
+        padding: 0px;
+    }
+
+    .colab {
+        font-size: 32px;
+        line-height: 40.16px;
+    }
+
+    .sci {
+        font-size: 54px;
+        line-height: 67.77px;
+    }
+
+    .footer {
+        justify-content: space-evenly;
+        align-items: center;
+        text-align: center;
+        border: none;
+       
+    }
+
+  
+ 
+
+
+}
+
+@media screen and (min-width: 1300px) {
+
+    .container {
+        max-width: 1240px;
+        margin: auto;
+    }
+}
